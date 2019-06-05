@@ -5,5 +5,7 @@ mollica
 mozzarella
 sale
 
-carciofi
+
 pecorino
+finocchietto
+
